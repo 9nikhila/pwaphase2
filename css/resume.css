@@ -1,0 +1,7 @@
+body{
+  background:pink;
+}
+.parent{
+  display: flex;
+  flex-wrap: wrap;
+}
